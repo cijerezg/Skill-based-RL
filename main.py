@@ -13,7 +13,7 @@ from utils import params_extraction, load_pretrained_models, vae_config
 import pdb
 import wandb
 
-
+# Little test
 os.environ['WANDB_SILENT'] = "true"
 
 wandb.login()
